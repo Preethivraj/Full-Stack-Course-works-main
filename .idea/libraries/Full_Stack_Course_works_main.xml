@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Full-Stack-Course-works-main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Week-05-practice.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Week-02-practice.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Week-03-practice.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Week-04-practice.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Week-01-practice.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
